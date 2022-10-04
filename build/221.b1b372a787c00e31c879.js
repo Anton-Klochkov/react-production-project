@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_course_react=self.webpackChunkproject_course_react||[]).push([[221],{221:(e,r,c)=>{c.r(r),c.d(r,{default:()=>d});var t=c(893),s=c(327);const d=function(){var e=(0,s.$)("about").t;return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("div",{children:e("Еще что-то")},void 0),(0,t.jsx)("div",{children:e("О Сайте")},void 0)]},void 0)}}}]);
