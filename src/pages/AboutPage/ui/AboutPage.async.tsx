@@ -5,6 +5,6 @@ export const AboutPageAsync = lazy(
     new Promise((resolve) => {
       //@ts-ignore
       //НЕ ЗАБУДЬ УДАЛИТЬ!!!
-      setTimeout(() => resolve(import('./AboutPage')));
+      setTimeout(() => resolve(import('./AboutPage')), [1000]);
     }),
 );
