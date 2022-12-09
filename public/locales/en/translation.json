@@ -1,7 +1,14 @@
 {
   "Тестовый пример": "Test example",
+  "Перевод": "Translate",
+  "Главная страница": "Main page",
   "Язык": "English",
-  "Not found page": "Page not found",
-  "Big lake": "Big lake",
-  "throw error": "throw error"
+  "новый перевод": "новый перевод",
+  "Страница не найдена": "Page not found",
+  "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
+  "Обновить страницу": "Reload page",
+  "throw error": "throw error",
+  "Главная": "Main",
+  "О сайте": "About us",
+  "Переключить": "Переключить"
 }
