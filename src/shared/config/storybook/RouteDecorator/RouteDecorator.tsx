@@ -1,7 +1,8 @@
+/* eslint-disable linebreak-style */
 import 'app/styles/index.scss';
 import { Story } from '@storybook/react';
 import { BrowserRouter } from 'react-router-dom';
 
-export const RouteDecorator = (story: () => Story) => {
-  return <BrowserRouter>{story()}</BrowserRouter>;
-};
+export const RouteDecorator = (story: () => Story) => (
+  <BrowserRouter>{story()}</BrowserRouter>
+);

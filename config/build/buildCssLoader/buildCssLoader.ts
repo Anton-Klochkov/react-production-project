@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import MiniCssExtractPlugin from 'mini-css-extract-plugin';
 
 export function buildSccLoader(isDev: boolean) {
